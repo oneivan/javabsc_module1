@@ -1,6 +1,5 @@
-package hw1.o2s_javabsc;
+package hw1.lesson3;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class MainApp {

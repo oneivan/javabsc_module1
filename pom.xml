@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>sia.javabsc</groupId>
-    <artifactId>javabsc_module1</artifactId>
+    <artifactId>serdyukov_javabsc_module1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
